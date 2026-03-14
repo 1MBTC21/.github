@@ -1,6 +1,6 @@
 # GitHub Repository mit SSH klonen
 
-Mit SSH kannst du GitHub-Repositories nutzen, ohne jedes Mal ein Passwort oder PAT einzugeben.
+Mit SSH kannst du GitHub-Repositories nutzen
 
 ## Vorteil
 
